@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Pulkit Mittal
-- 👀 I’m into in blockchain and backend development
+- 👀 I’m into blockchain development
+- 💻 Working as an engineer at Polygon (previously Matic Network)
 - 💞️ I’m looking to collaborate on any project in the web3 space
 
 
